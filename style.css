@@ -35,3 +35,6 @@ span {
  margin: auto;
  font-family: 'Supermercado One', cursive;
 }
+a {
+  text-decoration: none;
+}
