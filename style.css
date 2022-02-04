@@ -1,5 +1,8 @@
 body {
     background-color: #E5E5E5;
+    font-family: 'Supermercado One', cursive;
+    font-style: normal;
+    font-weight: normal;
 }
 #logo-alura{
     position: absolute;
@@ -30,4 +33,5 @@ button {
 }
 span {
  margin: auto;
+ font-family: 'Supermercado One', cursive;
 }
