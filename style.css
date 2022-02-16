@@ -4,15 +4,18 @@ body {
     font-style: normal;
     font-weight: normal;
 }
+
 #logo-alura{
     position: absolute;
     width: 31px;
     height: 48px;
 }
+
 #header {
     width: 50px;
     height: 50px;
 }
+
 button {
     width: 220px;
     height: 80px;
@@ -27,15 +30,30 @@ button {
     text-align: center;
     margin-bottom: 15px;
 }
+
 #buttons {
     position: absolute;
     top: 38%;
     left: 39%;
 }
+
 span {
  margin: auto;
  font-family: 'Supermercado One', cursive;
 }
+
 a {
   text-decoration: none;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+}
+
+.container p {
+    align-content: center;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
 }
